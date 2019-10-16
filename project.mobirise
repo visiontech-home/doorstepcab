@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dsc-favicon-128x97.png",
@@ -54,7 +54,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home - DoorStep Cabs Asansol",
+        "title": "Home - Doorstep cab Asansol",
         "meta_descr": "Best Cab Service in Asansol, Affordable car rent in asansol,\ngood service, comfortable rides, Skilled Drivers, Luxarious Cars\nCar rental in asansol, car booking asansol, car rental, cab booking, best cab service,",
         "header_custom": "",
         "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+919832201185\", // WhatsApp number\n            call_to_action: \"Message us\", // Call to action\n            position: \"right\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->",
@@ -516,6 +516,38 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "modalName": "Important-Note-",
+            "modalSize": "medium",
+            "modalHeader": true,
+            "modalTitle": "Please Note",
+            "modalBody": "Keep Your Child on Left Hand Side While Walking on Roads\n\n\nRegards,\nDoorstepcab.in",
+            "modalBodyHTML": true,
+            "modalFooter": true,
+            "modalCloseBtn": true,
+            "modalCloseText": "Got It",
+            "modalLink": false,
+            "modalLinkUrl": "https://mobirise.com/",
+            "modalLinkText": "Visit Mobirise",
+            "modalLinkNewWindow": true,
+            "modalVerticalCenter": false,
+            "modalFade": false,
+            "modalAutoOpen": true,
+            "modalAutoOpenOnce": false,
+            "modalAutoOpenGDPR": true,
+            "modalAutoOpenDelay": "2"
+          },
+          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Important-Note-\">Preview Important-Note-</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Important-Note--howtouse\">How to use Important-Note-</a>\n</div>\n<div class=\"modal fade\" id=\"Important-Note--howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Important-Note--howtouseLabel\" aria-hidden=\"true\"><div class=\"modal-dialog\" role=\"document\">\n  <div class=\"modal-content\">\n    <div class=\"modal-header\">\n      <h5 class=\"modal-title\" id=\"Important-Note--howtouseLabel\">How to use?</h5>\n      <a href=\"\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n    </div>\n    <div class=\"modal-body\">\n      Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n      <code>javascript:OpenModal('Important-Note-')</code>\n    </div>\n    <div class=\"modal-footer\">\n      <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div>\n    </div>\n  </div>\n</div>",
+          "modalBody": "Keep Your Child on Left Hand Side While Walking on Roads\n\n\nRegards,\nDoorstepcab.in",
+          "alias": "witsec-modal-window",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-modal-window-block",
+          "_anchor": "witsec-modal-window-block-5",
+          "modalWindow": "<div class=\"modal \" id=\"Important-Note-\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Important-Note-Label\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"Important-Note-Label\">Please Note</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"Important-Note-_body\">Keep Your Child on Left Hand Side While Walking on Roads\n\n\nRegards,\nDoorstepcab.in</div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"#\" class=\"no-anim btn btn-secondary display-4\" data-dismiss=\"modal\">Got It</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#Important-Note-\").on(\"hidden.bs.modal\", function () {    var html = $( \"#Important-Note-_body\" ).html();    $( \"#Important-Note-_body\" ).empty();    $( \"#Important-Note-_body\" ).append(html);  })});</script>"
         },
         {
           "alias": false,
